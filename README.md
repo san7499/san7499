@@ -80,12 +80,5 @@ Hi there! I'm **Sanket Khapake**, an aspiring **Information Technology Engineer*
 
 ---
 
-## 👀 Visitors
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=san7499&icon=5&color=6" />
-</div>
-
----
 
 <!-- Designed with ❤️ by Sanket Khapake | Generated using GPRM -->
