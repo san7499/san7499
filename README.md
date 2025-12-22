@@ -1,44 +1,50 @@
 # Sanket Khapake
 
-**Aspiring Data Scientist & Python Developer**  
+**Aspiring Data Scientist | Python & Flask Developer**  
 Information Technology Engineering Student
 
-I am passionate about building data-driven solutions using **Python**, **Machine Learning**, and **Analytics**.  
-My focus is on transforming raw data into meaningful insights and developing scalable applications.
+I focus on building **data-driven applications** using **Python**, **Machine Learning**, **Flask**, and **SQL/PLSQL**.  
+My interests include data analysis, predictive modeling, and deploying analytics-driven web applications.
 
 ---
 
 ## Professional Summary
 
-- Strong foundation in **Python for Data Science**
-- Experience in **Machine Learning**, **Data Analysis**, and **Visualization**
-- Hands-on with **end-to-end data pipelines**, from preprocessing to model evaluation
-- Interested in roles related to **Data Science, Analytics, and Python Development**
+- Strong proficiency in **Python for Data Science and Backend Development**
+- Experience in **Machine Learning, Data Analysis, and Visualization**
+- Hands-on with **Flask-based web applications** for data-driven solutions
+- Skilled in **SQL & PL/SQL** for database design, querying, and optimization
+- Passionate about transforming data into actionable insights
 
 ---
 
-## Core Skills
+## Technical Skills
 
-### Programming & Development
+### Programming & Backend
 - Python
-- Java
-- JavaScript
-- HTML, CSS
+- Flask
 
 ### Data Science & Machine Learning
-- Pandas, NumPy
+- Pandas
+- NumPy
 - Scikit-learn
-- Matplotlib
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Feature Engineering
 - Model Training & Evaluation
 
-### Analytics & Tools
+### Data Visualization & Analytics
+- Matplotlib
 - Power BI
+
+### Databases
 - MySQL
+- SQL
+- PL/SQL
+
+### Tools & Platforms
 - Jupyter Notebook
 - Anaconda
-- WordPress
+- Git & GitHub
 
 ---
 
@@ -69,4 +75,4 @@ My focus is on transforming raw data into meaningful insights and developing sca
 
 ---
 
-> *Focused on continuous learning, real-world problem solving, and impactful data solutions.*
+> *Focused on Data Science, Python backend development, and scalable analytics solutions.*
