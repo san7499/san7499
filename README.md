@@ -48,25 +48,6 @@ My interests include data analysis, predictive modeling, and deploying analytics
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=san7499&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=san7499&theme=radical" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san7499&layout=compact&theme=radical" width="48%" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=san7499&theme=radical&no-bg=true&no-frame=true&column=6" />
-</div>
-
----
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sanket-khapake-3ba430257/
