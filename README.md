@@ -51,8 +51,6 @@ My interests include data analysis, predictive modeling, and deploying analytics
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sanket-khapake-3ba430257/
-- Instagram: https://www.instagram.com/sank_et1903/
-- X (Twitter): https://x.com/KhapakeSan35683
 
 ---
 
